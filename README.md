@@ -24,6 +24,12 @@ DATABASES:
 DEVOPS:
 
  [![My Skills](https://skillicons.dev/icons?i=docker,jenkins)](https://skillicons.dev)
+
+TOOLS:
+
+ 
+ [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,intellij,firebase,stackoverflow,linux,ubuntu,linuxshell)](https://skillicons.dev)
+ 
   
 <!---
 Atmozo/Atmozo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
