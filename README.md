@@ -28,7 +28,7 @@ DEVOPS:
 TOOLS:
 
  
- [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,intellij,firebase,stackoverflow,linux,ubuntu,linuxshell)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,intellijidea,firebase,stackoverflow,linux,ubuntu,linuxshell)](https://skillicons.dev)
  
   
 <!---
