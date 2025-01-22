@@ -19,7 +19,7 @@ FRAMEWORKS:
 DATABASES: 
 
  
- [![My Skills](https://skillicons.dev/icons?i=mongodb,PostgreSQL,Mysql,redis)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis)](https://skillicons.dev)
   
 <!---
 Atmozo/Atmozo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
