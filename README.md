@@ -1,6 +1,6 @@
+                                                         Precision in Testing, Perfection in Delivery.
 - 🌱 I’m currently learning NextJS.
 
-- 👨‍💻 projects are available at ashelymozorandi.vercel.app
  
 - 💬 Working on Java,Selenium,Appium,Node.JS, Typescript, React, Docker, Jenkins
 
