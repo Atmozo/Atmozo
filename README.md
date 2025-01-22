@@ -1,4 +1,4 @@
-                                                         Precision in Testing, Perfection in Delivery.
+                                              ⚡Precision in Testing, Perfection in Delivery.
 - 🌱 I’m currently learning NextJS.
 
  
