@@ -6,11 +6,15 @@
 
 
 - TECH STACK AND TOOLS
-- 
-LANGUAGES
+  
+LANGUAGES:
 
- [![My Skills](https://skillicons.dev/icons?i=java,python,ts,js,html,css,wasm)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,python,ts,js,html,css,)](https://skillicons.dev)
 
+ 
+FRAMEWORKS:
+
+  [![My Skills](https://skillicons.dev/icons?i=Next,react,prisma,express,bootstrap,thaiwind,JUnit,TestNG,Mocha,Jest,PyTest ,Cypress&perline=4)](https://skillicons.dev)
 <!---
 Atmozo/Atmozo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
