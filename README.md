@@ -14,7 +14,7 @@ LANGUAGES:
  
 FRAMEWORKS:
 
-  [![My Skills](https://skillicons.dev/icons?i=next,react,prisma,express,bootstrap,thaiwind,junit,testng,mocha,jest,pytest,cypress&perline=3)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=next,react,prisma,express,bootstrap,thaiwind,junit,testNG,Mocha,jest,PyTest,cypress&perline=3)](https://skillicons.dev)
 <!---
 Atmozo/Atmozo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
