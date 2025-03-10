@@ -28,7 +28,7 @@ DEVOPS:
 TOOLS:
 
  
- [![My Skills](https://skillicons.dev/icons?i=git,github,k6,curl,nvim,postman,babel,selenium,firebase,stackoverflow,linux,ubuntu,bash)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,gherkin,grafana,maven,neovim,postman,babel,selenium,firebase,stackoverflow,linux,ubuntu,bash)](https://skillicons.dev)
  
 
   ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atmozo)
