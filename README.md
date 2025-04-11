@@ -4,6 +4,10 @@
  
 - 💬 Working on Java,Selenium,Appium,Node.JS, Typescript, React, Docker, Jenkins
 
+ ## 📂 Gist 
+ Supercharged guides for productive developers, testers, and command-line warriors.
+ 
+ https://gist.github.com/Atmozo
 
 - TECH STACK AND TOOLS
   
